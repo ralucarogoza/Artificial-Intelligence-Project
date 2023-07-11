@@ -4,4 +4,4 @@ Train a model for deep hallucination classification. This is a multi-way classif
 
 The training data is composed of 12,000 image files. The validation set is composed of 1,000 image files. The test is composed of 5,000 image files.
 
-For classification I used KNN and CNN. I have explained the whole process in the documentation.
+For classification I used 2 models: KNN and CNN. I have explained the whole process in the documentation.
